@@ -21,13 +21,13 @@ function Authorguidelines() {
                         <img src={dash} alt="image" className='min-w-[200px] max-w-[250px] mx-auto w-full h-auto mb-3 lg:hidden block ' />
                         <p className="  text-white mb-3 lg:mb-4   poppins-medium max-w-[1094px] lg:pl-6">
                         Authors are invited to submit original, unpublished research that is not under consideration elsewhere. Manuscripts must be written in clear, concise English and formatted according to APA style. Each submission should include a title, abstract, keywords, main text, references, and any necessary appendices. Tables and figures must be clearly labeled and placed appropriately within the manuscript. All sources must be properly cited, and authors must disclose any potential conflicts of interest. Submitted papers will undergo a double-blind peer review process to ensure quality and relevance.</p>
-                        <div className="pl-6 ">
+                        {/* <div className="pl-6 ">
                             <Link to="" target="_blank" rel="noopener noreferrer">
                                 <button className="hover:text-white poppins-regular hover:bg-[#4E7628] lg:p-1 lg:px-4   py-1 px-2 cursor-pointer text-[#4E7628] border-2 border-[#4E7628] hover:border-2 hover:border-white  transition-duration duration-300 rounded-lg bg-white">
                                     <div className="flex justify-between  text-nowrap gap-2 "> Submit Paper <ImUpload2 className="mt-1" /></div>
                                 </button>
                             </Link>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div className='bg-[#FAFAFA] rounded-lg  mb-7 border-2 border-[#759457]'>

@@ -29,8 +29,8 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-6">
         <div className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-6  relative ">
           <div>         
-             <img src={Logo} alt="logo" width="150px" height="150px" className=" lg:mt-2 mt-4 mb-4"/>
-             
+             {/* <img src={Logo} alt="logo" width="150px" height="150px" className=" lg:mt-2 mt-4 mb-4"/> */}
+             <h2 className='poppins-bold text-lg mt-2 mb-4'>IJCFI</h2>
             <div className="flex items-center mb-2">
               <svg
                 className="w-4 h-4 sm:w-5 sm:h-5 mr-2"
@@ -134,7 +134,7 @@ const Footer = () => {
         <hr className="border-t border-gray-400 my-4 " />
 
         <div className="flex flex-col  justify-center text-center text-sm sm:text-base poppins-regular ">
-          <p>© 2025 ijcfi. All Rights Reserved.</p>
+          <p>© 2025 IJCFI. All Rights Reserved.</p>
         </div>
       </div>
     </footer>

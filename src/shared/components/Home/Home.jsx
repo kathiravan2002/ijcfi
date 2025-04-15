@@ -73,7 +73,7 @@ const Home = () => {
                 The International Journal of Corporate Finance and Investment  is a peer-reviewed academic journal dedicated to advancing knowledge in the fields of corporate finance, investment strategies, and financial management. The journal provides a platform for scholars, researchers, and professionals to share original research, case studies, and theoretical insights. IJCFI aims to bridge the gap between financial theory and practical application in the corporate world. Topics of interest include capital structure, corporate governance, mergers and acquisitions, asset pricing, and investment analysis.                  </p>
 
               <div className="pl-6 ">
-                <Link to="" target="_blank" rel="noopener noreferrer">
+                <Link to="https://www.ijcfi.com/ijcfi/index.php/ijcfi/about/submissions" target="_blank" rel="noopener noreferrer">
                   <button className="hover:text-white poppins-regular hover:bg-[#4E7628] lg:p-1 lg:px-4   py-1 px-2 cursor-pointer text-[#4E7628] border-2 border-[#4E7628] hover:border-2 hover:border-white  transition-duration duration-300 rounded-lg bg-white">
                     <div className="flex justify-between  text-nowrap gap-2 "> Submit Paper <ImUpload2 className="mt-1" /></div>
                   </button>

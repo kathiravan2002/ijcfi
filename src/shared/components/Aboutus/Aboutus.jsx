@@ -26,7 +26,7 @@ function Aboutus() {
                         <p className="  text-white mb-3 lg:mb-4   poppins-medium max-w-[1094px] lg:pl-6">
                             The International Journal of Corporate Finance and Investment  is a peer-reviewed academic journal dedicated to publishing innovative research in the fields of corporate finance, investment, and financial strategy. We aim to provide a global platform for researchers, practitioners, and policymakers to exchange ideas and advance financial knowledge. Our journal focuses on both theoretical and empirical studies that address contemporary issues in corporate financial management and investment practices. IJCFI is committed to maintaining high academic standards and fostering impactful scholarly communication.</p>
                         <div className="pl-6 ">
-                            <Link to="" target="_blank" rel="noopener noreferrer">
+                            <Link to="https://www.ijcfi.com/ijcfi/index.php/ijcfi/about/submissions" target="_blank" rel="noopener noreferrer">
                                 <button className="hover:text-white poppins-regular hover:bg-[#4E7628] lg:p-1 lg:px-4   py-1 px-2 cursor-pointer text-[#4E7628] border-2 border-[#4E7628] hover:border-2 hover:border-white  transition-duration duration-300 rounded-lg bg-white">
                                     <div className="flex justify-between  text-nowrap gap-2 "> Submit Paper <ImUpload2 className="mt-1" /></div>
                                 </button>

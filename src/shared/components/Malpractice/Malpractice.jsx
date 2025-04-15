@@ -18,7 +18,7 @@ function Malpractice() {
                         </h1>
                         <img src={dash} alt="image" className='min-w-[200px] max-w-[250px] mx-auto w-full h-auto mb-3 lg:hidden block ' />
                         <p className="  text-white mb-3 lg:mb-4   poppins-medium max-w-[1094px] lg:pl-6">
-                        The International Journal of Corporate Finance and Investment is committed to maintaining the highest standards of publication ethics. Any form of academic misconduct, including plagiarism, data falsification, inappropriate authorship, or unethical research practices, is strictly prohibited. All submissions are carefully reviewed for compliance with ethical guidelines, and suspected cases of malpractice are thoroughly investigated. If malpractice is confirmed, appropriate actions such as rejection, retraction, or author sanctions will be taken. The journal follows COPE (Committee on Publication Ethics) guidelines to ensure integrity and transparency in its publishing practices.</p>
+                        The International Journal of Corporate Finance and Investment is committed to maintaining the highest standards of publication ethics. Any form of academic misconduct, including plagiarism, data falsification, inappropriate authorship, or unethical research practices, is strictly prohibited. All submissions are carefully reviewed for compliance with ethical guidelines, and suspected cases of malpractice are thoroughly investigated. If malpractice is confirmed, appropriate actions such as rejection, retraction, or author sanctions will be taken. </p>
                      
                     </div>
                 </div>

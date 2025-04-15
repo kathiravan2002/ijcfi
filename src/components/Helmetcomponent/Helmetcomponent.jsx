@@ -4,7 +4,7 @@ const Helmetcomponent = ({ title }) => {
   return (
     <Helmet>
     <title>{title}</title>
-    <meta name="keywords" content="IJCFI, International Journal of Leadership and Innovation,Entrepreneurship, corporate finance, investment research, financial markets, financial management, capital investment, peer-reviewed journal, open access finance journal, financial analysis, economic policy, asset management, international finance, portfolio management, investment strategies, financial planning, academic finance journal, financial modeling, finance and investment trends, scholarly finance publication, journal of corporate finance." />
+    <meta name="keywords" content="IJCFI, International Journal of Corporate Finance and Investment , corporate finance, investment research, financial markets, financial management, capital investment, peer-reviewed journal, open access finance journal, financial analysis, economic policy, asset management, international finance, portfolio management, investment strategies, financial planning, academic finance journal, financial modeling, finance and investment trends, scholarly finance publication, journal of corporate finance." />
     <meta name="description" content="IJCFI publishes high-quality research in corporate finance and investment with global visibility, open access, and expert peer review." />
     <meta name="author" content="IJCFI Editorial Team" />
     <meta name="robots" content="index, follow" />

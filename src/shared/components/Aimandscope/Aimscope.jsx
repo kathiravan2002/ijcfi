@@ -22,7 +22,7 @@ function Aimscope() {
                         <p className="  text-white mb-3 lg:mb-4   poppins-medium max-w-[1094px] lg:pl-6">
                         The International Journal of Corporate Finance and Investment  aims to advance the field of finance by publishing high-quality, peer-reviewed research focused on corporate financial practices and investment strategies. The journal seeks to provide a platform for academics, practitioners, and policymakers to exchange insights on current financial issues and innovations. Its scope includes a wide range of topics such as capital markets, corporate governance, financial risk management, and portfolio analysis. IJCFI encourages interdisciplinary approaches and global perspectives that contribute to both theory and practice.</p>
                         <div className="pl-6 ">
-                            <Link to="" target="_blank" rel="noopener noreferrer">
+                            <Link to="https://www.ijcfi.com/ijcfi/index.php/ijcfi/about/submissions" target="_blank" rel="noopener noreferrer">
                                 <button className="hover:text-white poppins-regular hover:bg-[#4E7628] lg:p-1 lg:px-4   py-1 px-2 cursor-pointer text-[#4E7628] border-2 border-[#4E7628] hover:border-2 hover:border-white  transition-duration duration-300 rounded-lg bg-white">
                                     <div className="flex justify-between  text-nowrap gap-2 "> Submit Paper <ImUpload2 className="mt-1" /></div>
                                 </button>
