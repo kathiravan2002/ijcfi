@@ -1,11 +1,9 @@
 import React, { useState, useEffect, useRef } from "react";
-import { Link, useLocation, useParams, useSearchParams } from "react-router-dom";
-import { FaChevronDown, FaUpload } from "react-icons/fa";
+import { Link, useLocation } from "react-router-dom";
 import NavItems from "./NavItems";
 import { GiHamburgerMenu } from "react-icons/gi";
-import Logo from '/assets/logo.png'
+import Logo from '/assets/IJCFI.png'
 import { IoIosArrowDropdown } from "react-icons/io";
-import { ImUpload2 } from "react-icons/im";
 
 const Header = () => {
   const menuRef = useRef(null);
@@ -83,26 +81,25 @@ const Header = () => {
         className="fixed top-0 w-full z-[100] ">
         <div className="bg-[#4E7628] py-5">
           <div className="max-w-full mx-auto w-full ">
-            <div className="w-full flex  items-center justify-between  ">
-              
-              <div className=" flex justify-center items-center h-full text-white z-10 px-5 " >
-                <div className=" " ></div>
+            <div className="w-full flex  items-center justify-between ">             
+              <div className=" flex justify-center items-center h-full text-white z-10 " >
+                {/* <div className=" " ></div> */}
                 <Link to={'/'}>
                   <div>
-                    {/* <img
+                    <img
                       src={Logo}
                       loading='lazy'
                       alt="Website Logo"
-                      className=" lg:min-w-40 lg:w-40 min-w-28 w-28 select-none lg:ml-16"
-                    /> */}
-                    <h2 className="namdhinggo-bold text-white text-center text-3xl">IJCFI</h2>
+                      className=" lg:min-w-40 lg:w-40 min-w-28 w-28 select-none lg:ml-10 ml-8"
+                    />
+                   
                   </div>
 
                 </Link>
                 
               </div>
 
-              <Link to={"/"} className="lg:block hidden  lg:pl-44 xl:pl-0">
+              <Link to={"/"} className="lg:block hidden  lg:pl-44 xl:pl-0 mr-24">
                 <div className="flex justify-center items-center">
                   <h1 className="text-2xl font-semibold  whitespace-nowrap text-white namdhinggo-bold ">International Journal of Corporate Finance and Investment</h1>
                 </div>

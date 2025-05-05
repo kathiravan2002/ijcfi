@@ -103,7 +103,7 @@ function Publicationethics() {
                 <section className="mb-8">
                     <div className="rounded-lg p-8 shadow-lg border-2 border-[#759457]">
                         <div>
-                        <h2 className="lg:text-2xl text-lg  poppins-bold text-center mb-8 text-[#4E7628]">Open Acess Policy</h2>
+                        <h2 className="lg:text-2xl text-lg  poppins-bold text-center mb-8 text-[#4E7628]">Open Access Policy</h2>
                         <div className="space-y-4 mb-8">
                             <div className="flex items-start">
                             <div className="flex-shrink-0 p-2  bg-[#759457] rounded-full shadow-md mr-4">

@@ -13,10 +13,10 @@ const Helmetcomponent = ({ title }) => {
     <meta property="og:title" content="International Journal of Corporate Finance and Investment  " />
     <meta property="og:description" content="IJCFI publishes high-quality research in corporate finance and investment with global visibility, open access, and expert peer review." />
     <meta property="og:url" content="https://www.ijcfi.com/" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="http://www.ijcfi.com/assets/IJCFI.png" />
 
     <link rel="canonical" href="https://www.ijcfi.com/" />
-    <link rel="icon" type="image/svg+xml" href="" />
+    <link rel="icon" type="image/svg+xml" href="/assets/Fav.jpg" />
   </Helmet>
   );
 };

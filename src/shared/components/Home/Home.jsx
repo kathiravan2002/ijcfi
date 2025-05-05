@@ -170,7 +170,7 @@ const Home = () => {
             <p className="text-black mt-2 poppins-regular   px-4 lg:px-0">
               With Warm Regards, <br />
              <span className='text-[#4E7628]'>Editor-in-Chief</span> <br />
-              <span className="font-bold">ijcfi</span>
+              <span className="font-bold">IJCFI</span>
             </p>
           </section>
         </main>
